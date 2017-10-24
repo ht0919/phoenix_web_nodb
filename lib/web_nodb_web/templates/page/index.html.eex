@@ -1,0 +1,2 @@
+ここが本文です。<br>
+<%= [ "hoge", "foo" ] |> List.to_string %>
